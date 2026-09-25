@@ -1,0 +1,6 @@
+{
+  "name": "Explore the Deep Sea",
+  "description": "An immersive marine species discovery platform showcasing extraordinary ocean creatures with 3D animations and interactive underwater exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
